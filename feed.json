@@ -5,6 +5,7 @@
     "home_page_url": "https://selenevn.github.io",
     "feed_url": "https://selenevn.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://selenevn.github.io/media/website/selene.png",
     "author": {
         "name": "selene"
     },
@@ -21,7 +22,7 @@
             "tags": [
                    "chair"
             ],
-            "date_published": "2017-08-23T13:48:21+07:00",
+            "date_published": "2017-08-23T14:57:34+07:00",
             "date_modified": "2017-08-23T10:34:08+07:00"
         },
         {
@@ -35,7 +36,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-23T13:48:21+07:00",
+            "date_published": "2017-08-23T14:57:34+07:00",
             "date_modified": "2017-08-22T15:18:45+07:00"
         },
         {
@@ -49,7 +50,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-23T13:48:21+07:00",
+            "date_published": "2017-08-23T14:57:34+07:00",
             "date_modified": "2017-08-22T15:14:07+07:00"
         },
         {
@@ -63,7 +64,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-23T13:48:21+07:00",
+            "date_published": "2017-08-23T14:57:34+07:00",
             "date_modified": "2017-08-22T16:49:16+07:00"
         }
     ]
