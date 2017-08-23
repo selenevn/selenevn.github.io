@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://selenevn.github.io/dua-bai-len-web-the-nao.html",
+            "url": "https://selenevn.github.io/dua-bai-len-web-the-nao.html",
+            "title": "Đưa bài lên web thế nào?",
+            "content_html": "<p>Trang web vẫn chưa ho&agrave;n thiện. Tao tạm d&ugrave;ng github để l&agrave;m c&aacute;i blog ghi ch&eacute;p lại những &yacute; tưởng vặt v&atilde;nh nảy sinh trong qu&aacute; tr&igrave;nh ho&agrave;n thiện.</p>\n<p>Với &yacute; tưởng l&agrave;m trang web giới thiệu c&aacute;c mặt h&agrave;ng handmade (chủ yếu l&agrave; đồ da), th&igrave; việc lập v&agrave; vận h&agrave;nh&nbsp;một trang web l&agrave; việc thừa th&atilde;i. Tao kh&ocirc;ng c&oacute; nhiều th&ocirc;ng tin để post l&ecirc;n thường xuy&ecirc;n, v&agrave; cũng kh&ocirc;ng muốn mất nhiều th&igrave; giờ để học quản l&yacute; trang web. &Yacute; tưởng của tao l&agrave; chỉ mua t&ecirc;n miền rồi gắn c&aacute;i t&ecirc;n miền ấy v&agrave;o một repo tr&ecirc;n github.</p>\n<p>Chỉ l&agrave; một trang web tĩnh, đơn giản vậy th&ocirc;i.</p>\n<p>Đ&acirc;y l&agrave; c&aacute;c bước để update th&ocirc;ng tin</p>\n<ol>\n<li>Clone repo đ&atilde; lập cho trang web (<a href=\"https://github.com/selenevn/selenevn.github.io\">https://github.com/selenevn/selenevn.github.io</a>) lưu tại <code>D:/www/selenevn.github.io/</code>.</li>\n<li>D&ugrave;ng wamp tạo virtualhost cho thư mục tr&ecirc;n, với t&ecirc;n miền <strong>selene.dev</strong> (chỉ sử dụng ở m&aacute;y t&iacute;nh).</li>\n<li>D&ugrave;ng publii (<a href=\"https://getpublii.com/\">https://getpublii.com/</a>) để l&agrave;m trang web tĩnh. Th&ocirc;ng tin sau khi update c&oacute; thể kiểm tra th&ocirc;ng qua preview của phần mềm hoặc copy to&agrave;n bộ c&aacute;c file sinh ra trong thư mục output sang virtualhost để xem tr&ecirc;n tr&igrave;nh duyệt.</li>\n<li>Khi ok to&agrave;n bộ rồi th&igrave; chỉ cần commit v&agrave; push l&ecirc;n github (từ virtualhost) l&agrave; xong.</li>\n</ol>",
+            "image": "https://selenevn.github.io/media/posts/5/istock_000015286795medium.jpg",
+            "author": {
+                "name": "selene"
+            },
+            "tags": [
+                   "web",
+                   "idea"
+            ],
+            "date_published": "2017-08-23T15:32:56+07:00",
+            "date_modified": "2017-08-23T15:26:38+07:00"
+        },
+        {
             "id": "https://selenevn.github.io/lam-moi-hoac-boc-lai-ghe.html",
             "url": "https://selenevn.github.io/lam-moi-hoac-boc-lai-ghe.html",
             "title": "làm mới hoặc bọc lại ghế",
@@ -22,7 +38,7 @@
             "tags": [
                    "chair"
             ],
-            "date_published": "2017-08-23T15:05:56+07:00",
+            "date_published": "2017-08-23T15:32:56+07:00",
             "date_modified": "2017-08-23T10:34:08+07:00"
         },
         {
@@ -37,7 +53,7 @@
             "tags": [
                    "craft"
             ],
-            "date_published": "2017-08-23T15:05:56+07:00",
+            "date_published": "2017-08-23T15:32:56+07:00",
             "date_modified": "2017-08-23T15:05:12+07:00"
         },
         {
@@ -53,7 +69,7 @@
                    "web",
                    "idea"
             ],
-            "date_published": "2017-08-23T15:05:56+07:00",
+            "date_published": "2017-08-23T15:32:56+07:00",
             "date_modified": "2017-08-23T15:05:35+07:00"
         },
         {
@@ -67,7 +83,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-08-23T15:05:56+07:00",
+            "date_published": "2017-08-23T15:32:56+07:00",
             "date_modified": "2017-08-23T15:05:42+07:00"
         }
     ]

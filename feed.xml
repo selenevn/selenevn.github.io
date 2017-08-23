@@ -3,12 +3,40 @@
     <title>selene-craft</title>
     <link href="https://selenevn.github.io/feed.xml" rel="self" />
     <link href="https://selenevn.github.io" />
-    <updated>2017-08-23T15:05:56+07:00</updated>
+    <updated>2017-08-23T15:32:56+07:00</updated>
     <author>
         <name>selene</name>
     </author>
     <id>https://selenevn.github.io</id>
 
+    <entry>
+        <title>Đưa bài lên web thế nào?</title>
+        <author>
+            <name>selene</name>
+        </author>
+        <link href="https://selenevn.github.io/dua-bai-len-web-the-nao.html"/>
+        <id>https://selenevn.github.io/dua-bai-len-web-the-nao.html</id>
+            <category term="web"/>
+            <category term="idea"/>
+
+        <updated>2017-08-23T15:26:38+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://selenevn.github.io/media/posts/5/istock_000015286795medium.jpg" alt="" />
+                <p>Trang web vẫn chưa ho&agrave;n thiện. Tao tạm d&ugrave;ng github để l&agrave;m c&aacute;i blog ghi ch&eacute;p lại những &yacute; tưởng vặt v&atilde;nh nảy sinh trong qu&aacute; tr&igrave;nh ho&agrave;n thiện.</p>
+<p>Với &yacute; tưởng l&agrave;m trang web giới thiệu c&aacute;c mặt h&agrave;ng handmade (chủ yếu l&agrave; đồ da), th&igrave; việc lập v&agrave; vận h&agrave;nh&nbsp;một trang web l&agrave; việc thừa th&atilde;i. Tao kh&ocirc;ng c&oacute; nhiều th&ocirc;ng tin để post l&ecirc;n thường xuy&ecirc;n, v&agrave; cũng kh&ocirc;ng muốn mất nhiều th&igrave; giờ để học quản l&yacute; trang web. &Yacute; tưởng của tao l&agrave; chỉ mua t&ecirc;n miền rồi gắn c&aacute;i t&ecirc;n miền ấy v&agrave;o một repo tr&ecirc;n github.</p>
+<p>Chỉ l&agrave; một trang web tĩnh, đơn giản vậy th&ocirc;i.</p>
+<p>Đ&acirc;y l&agrave; c&aacute;c bước để update th&ocirc;ng tin</p>
+<ol>
+<li>Clone repo đ&atilde; lập cho trang web (<a href="https://github.com/selenevn/selenevn.github.io">https://github.com/selenevn/selenevn.github.io</a>) lưu tại <code>D:/www/selenevn.github.io/</code>.</li>
+<li>D&ugrave;ng wamp tạo virtualhost cho thư mục tr&ecirc;n, với t&ecirc;n miền <strong>selene.dev</strong> (chỉ sử dụng ở m&aacute;y t&iacute;nh).</li>
+<li>D&ugrave;ng publii (<a href="https://getpublii.com/">https://getpublii.com/</a>) để l&agrave;m trang web tĩnh. Th&ocirc;ng tin sau khi update c&oacute; thể kiểm tra th&ocirc;ng qua preview của phần mềm hoặc copy to&agrave;n bộ c&aacute;c file sinh ra trong thư mục output sang virtualhost để xem tr&ecirc;n tr&igrave;nh duyệt.</li>
+<li>Khi ok to&agrave;n bộ rồi th&igrave; chỉ cần commit v&agrave; push l&ecirc;n github (từ virtualhost) l&agrave; xong.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>làm mới hoặc bọc lại ghế</title>
         <author>
