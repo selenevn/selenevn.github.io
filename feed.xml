@@ -3,7 +3,7 @@
     <title>selene-craft</title>
     <link href="https://selenevn.github.io/feed.xml" rel="self" />
     <link href="https://selenevn.github.io" />
-    <updated>2017-08-23T15:32:56+07:00</updated>
+    <updated>2017-08-23T15:46:08+07:00</updated>
     <author>
         <name>selene</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="web"/>
             <category term="idea"/>
 
-        <updated>2017-08-23T15:26:38+07:00</updated>
+        <updated>2017-08-23T15:45:59+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -34,6 +34,13 @@
 <li>D&ugrave;ng publii (<a href="https://getpublii.com/">https://getpublii.com/</a>) để l&agrave;m trang web tĩnh. Th&ocirc;ng tin sau khi update c&oacute; thể kiểm tra th&ocirc;ng qua preview của phần mềm hoặc copy to&agrave;n bộ c&aacute;c file sinh ra trong thư mục output sang virtualhost để xem tr&ecirc;n tr&igrave;nh duyệt.</li>
 <li>Khi ok to&agrave;n bộ rồi th&igrave; chỉ cần commit v&agrave; push l&ecirc;n github (từ virtualhost) l&agrave; xong.</li>
 </ol>
+<hr>
+<h2>update</h2>
+<p>Thực tế l&agrave; quy tr&igrave;nh tr&ecirc;n vẫn c&oacute; vẻ kh&ocirc;ng ổn lắm. Thứ nhất l&agrave; vẫn phải qua nhiều bước. Thứ hai l&agrave; kh&ocirc;ng tận dụng được t&iacute;nh năng versioning đặc sản của Git.</p>
+<p>Mỗi lần copy từ thư mục output (hoặc unzip) l&agrave; to&agrave;n bộ&nbsp;file/folder đều được thay thế chứ kh&ocirc;ng phải chỉ update ri&ecirc;ng những phần c&oacute; thay đổi. Chỉ text file th&ocirc;i th&igrave; c&ograve;n c&oacute; thể chấp nhận, đằng n&agrave;y trang web của tao lại d&ugrave;ng kh&aacute; nhiều h&igrave;nh ảnh.</p>
+<p>Một vấn đề kh&aacute;c, l&agrave; khi sử dụng tại localhost, th&igrave; tao phải thay bằng t&ecirc;n miền d&ugrave;ng tại localhost th&igrave; trang web mới hoạt động b&igrave;nh thường.</p>
+<p>T&oacute;m lại quy tr&igrave;nh đ&atilde; viết tr&ecirc;n đ&acirc;y kh&ocirc;ng d&ugrave;ng được.</p>
+<p>The Big Fail!!!</p>
             ]]>
         </content>
     </entry>
